@@ -1,6 +1,6 @@
 ---
 title: Tech Hive
-publishDate: 2019-10-02 00:00:00
+publishDate: 2023-17-02 00:00:00
 img: /assets/tech-hive.png
 img_alt: Tech Hive
 description: |
@@ -36,4 +36,4 @@ Tech Hive is a dynamic blog platform where users can create, edit, and delete th
 
 - [Live Site](https://protected-island-47579.herokuapp.com/)
 
-- [GitHub](https://github.com/Deiontre10)
+- [GitHub](https://github.com/Deiontre10/tech-hive)
