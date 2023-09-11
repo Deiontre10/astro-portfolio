@@ -1,12 +1,13 @@
 ---
 title: Decadent AI
 publishDate: 2023-09-25 00:00:00
+img: /assets/decadent-ai.png
 description: |
   Decadent AI is a full-stack app that allows users to generate videos, music, code and much more.
-  tags:
-    - Full-stack
-    - Auth
-    - AI
+tags:
+  - Full-stack
+  - Auth
+  - AI
 ---
 
 # Decadent AI
